@@ -1,0 +1,48 @@
+.container-form img{
+    width:30px ;
+    height:30px;
+    margin-right: 20px;
+}
+.navbar{
+    border-bottom: solid brown;
+}
+.image-container .big-image img{
+    width: 300px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.image-container .small-image img{
+    width: 72px;
+    border-radius: 10px;
+    padding: 0 5px;
+}
+
+.text-container .add-to-cart .l-cart{
+color: #F4410A;
+padding: 10px;
+}
+.text-container .add-to-cart .btn {
+    background: #F4410A;
+    color: #fff;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 5px;
+    
+}
+ .text-container .btn img{
+    width: 25px;
+    padding: 0 5px;
+    color: #fff;
+} 
+.text-container p,h3,h2,h6{
+    margin-bottom: 15px;
+}
+.text-container h6{
+    font-size: 11px;
+    color: #F4410A;
+}
+.text-container span{
+    color: #F4410A;
+    margin-left: 10px;
+    font-size: 14px;
+}
